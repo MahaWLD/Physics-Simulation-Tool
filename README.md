@@ -1,5 +1,6 @@
 # Physics-Simulation-Tool
 Python-based physics simulation tool to model abstract motion.
+<img width="1658" height="974" alt="PhysicsSimulationTool" src="https://github.com/user-attachments/assets/bea2626f-a8c1-4b7e-acd2-bae16df5c041" />
 
 Entity-relationship diagram:
 <img width="1050" height="531" alt="image" src="https://github.com/user-attachments/assets/914ee0e5-e654-4b07-a871-fb23fd5047d8" />
